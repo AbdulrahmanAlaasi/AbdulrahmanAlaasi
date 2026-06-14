@@ -114,6 +114,10 @@ These are a few public repositories that show how I experiment with product tool
 
 ## GitHub Signal
 
+<p align="center">
+  <img src="./assets/contribution-worm.svg" alt="Animated contribution graph with a small worm moving through it" width="100%" />
+</p>
+
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanAlaasi&show_icons=true&hide_border=true&title_color=332820&text_color=4A3B30&icon_color=CF594A&bg_color=F4EDE0" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanAlaasi&layout=compact&hide_border=true&title_color=332820&text_color=4A3B30&bg_color=F4EDE0" alt="Top languages" />

@@ -9,9 +9,15 @@
   <text x="316" y="128" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#2C241D">Hackatone</text>
   <text x="318" y="166" font-family="Georgia, serif" font-size="22" fill="#4A3B30">Event operations, onboarding, and</text>
   <text x="318" y="194" font-family="Georgia, serif" font-size="22" fill="#4A3B30">team coordination.</text>
-  <rect x="94" y="86" width="144" height="22" rx="11" fill="#CF594A"/>
-  <rect x="94" y="126" width="112" height="18" rx="9" fill="#7A9B77"/>
-  <rect x="94" y="160" width="132" height="18" rx="9" fill="#5D7FA3"/>
+  <rect x="94" y="86" width="144" height="22" rx="11" fill="#CF594A">
+    <animate attributeName="width" values="100;144;100" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="94" y="126" width="112" height="18" rx="9" fill="#7A9B77">
+    <animate attributeName="width" values="76;112;76" dur="3.6s" begin=".35s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="94" y="160" width="132" height="18" rx="9" fill="#5D7FA3">
+    <animate attributeName="width" values="92;132;92" dur="3.6s" begin=".7s" repeatCount="indefinite"/>
+  </rect>
   <rect x="94" y="204" width="144" height="34" rx="17" fill="#332820"/>
   <text x="334" y="236" font-family="'Courier New', monospace" font-size="17" fill="#332820">PwC Smart Destinations Empowerthon</text>
 </svg>
