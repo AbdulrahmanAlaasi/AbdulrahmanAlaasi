@@ -1,0 +1,18 @@
+<svg width="760" height="320" viewBox="0 0 760 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Resume Builder project card</title>
+  <desc id="desc">A live preview resume builder interface.</desc>
+  <rect width="760" height="320" rx="18" fill="#EEF3F7"/>
+  <rect x="36" y="34" width="288" height="252" rx="13" fill="#FFF9ED" stroke="#332820" stroke-width="3"/>
+  <rect x="356" y="34" width="368" height="252" rx="13" fill="#FFFFFF" stroke="#332820" stroke-width="3"/>
+  <text x="62" y="78" font-family="'Courier New', monospace" font-size="18" fill="#5D7FA3">// builder</text>
+  <text x="62" y="120" font-family="Georgia, serif" font-size="34" font-weight="700" fill="#2C241D">Resume Builder</text>
+  <rect x="62" y="154" width="214" height="16" rx="8" fill="#D8CDBA"/>
+  <rect x="62" y="184" width="176" height="16" rx="8" fill="#D8CDBA"/>
+  <rect x="62" y="214" width="202" height="16" rx="8" fill="#D8CDBA"/>
+  <text x="390" y="78" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#2C241D">Live Preview</text>
+  <rect x="392" y="104" width="188" height="10" rx="5" fill="#332820"/>
+  <rect x="392" y="140" width="286" height="9" rx="4" fill="#D8CDBA"/>
+  <rect x="392" y="164" width="232" height="9" rx="4" fill="#D8CDBA"/>
+  <rect x="392" y="202" width="260" height="9" rx="4" fill="#D8CDBA"/>
+  <rect x="392" y="226" width="196" height="9" rx="4" fill="#D8CDBA"/>
+</svg>

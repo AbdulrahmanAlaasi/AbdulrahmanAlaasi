@@ -1,0 +1,15 @@
+<svg width="760" height="320" viewBox="0 0 760 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Interactive portfolio project card</title>
+  <desc id="desc">A stylized desk interface card for Abdulrahman's portfolio.</desc>
+  <rect width="760" height="320" rx="18" fill="#F4EDE0"/>
+  <rect x="34" y="36" width="692" height="248" rx="13" fill="#FFF9ED" stroke="#332820" stroke-width="3"/>
+  <text x="58" y="84" font-family="'Courier New', monospace" font-size="18" fill="#B65341">// interactive portfolio</text>
+  <text x="58" y="130" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#2C241D">Desk-inspired web experience</text>
+  <rect x="84" y="178" width="178" height="80" rx="9" fill="#332820"/>
+  <rect x="102" y="194" width="142" height="8" rx="4" fill="#F4EDE0"/>
+  <rect x="102" y="212" width="92" height="8" rx="4" fill="#7A9B77"/>
+  <rect x="292" y="172" width="104" height="92" rx="12" fill="#E8F0DC" stroke="#332820" stroke-width="3"/>
+  <circle cx="344" cy="218" r="24" fill="#CF594A"/>
+  <rect x="428" y="176" width="206" height="68" rx="8" fill="#F8DFAE" stroke="#332820" stroke-width="3"/>
+  <text x="454" y="218" font-family="'Courier New', monospace" font-size="18" fill="#332820">admin + content</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="760" height="320" viewBox="0 0 760 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Syncora hackathon project card</title>
+  <desc id="desc">A mobile-first event operations platform project card.</desc>
+  <rect width="760" height="320" rx="18" fill="#F8DFAE"/>
+  <rect x="56" y="34" width="220" height="252" rx="28" fill="#332820"/>
+  <rect x="72" y="58" width="188" height="204" rx="18" fill="#FFF9ED"/>
+  <circle cx="166" cy="274" r="5" fill="#F4EDE0"/>
+  <text x="316" y="82" font-family="'Courier New', monospace" font-size="18" fill="#B65341">// 48-hour MVP</text>
+  <text x="316" y="128" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#2C241D">Syncora</text>
+  <text x="318" y="166" font-family="Georgia, serif" font-size="22" fill="#4A3B30">Event operations, onboarding, and</text>
+  <text x="318" y="194" font-family="Georgia, serif" font-size="22" fill="#4A3B30">team coordination.</text>
+  <rect x="94" y="86" width="144" height="22" rx="11" fill="#CF594A"/>
+  <rect x="94" y="126" width="112" height="18" rx="9" fill="#7A9B77"/>
+  <rect x="94" y="160" width="132" height="18" rx="9" fill="#5D7FA3"/>
+  <rect x="94" y="204" width="144" height="34" rx="17" fill="#332820"/>
+  <text x="334" y="236" font-family="'Courier New', monospace" font-size="17" fill="#332820">PwC Smart Destinations Empowerthon</text>
+</svg>
