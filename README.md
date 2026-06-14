@@ -32,7 +32,7 @@ My current focus is **RAG-based assistants**, **Django REST backends**, **React 
 Lead engineer and system architect for a RAG-based university assistant covering 50+ academic workflows with a 300+ article pgvector knowledge base.
 
 **Stack:** Django REST Framework, React, Supabase, PostgreSQL, pgvector, Gemini embeddings, Claude Haiku.  
-**Links:** [Live site](https://yamamer.com) · private production repository
+**Links:** [Live site](https://yamamer.com) / private production repository
 
 ---
 
@@ -45,7 +45,7 @@ Lead engineer and system architect for a RAG-based university assistant covering
 A custom portfolio with a top-down SVG desk interface, animated project previews, responsive layouts, and a live admin system for managing content.
 
 **Stack:** React, JavaScript, custom SVG interaction design, responsive frontend systems.  
-**Links:** [Live site](https://abdulrahman.alaasi.dev) · private portfolio repository
+**Links:** [Live site](https://abdulrahman.alaasi.dev) / private portfolio repository
 
 ---
 
@@ -133,7 +133,7 @@ These are a few public repositories that show how I experiment with product tool
 I'm especially interested in full-stack product work, AI-assisted systems, developer tools, and interfaces that make complex workflows feel simple.
 
 <p>
-  <a href="mailto:abdulrahmanalaasi24@gmail.com">Email me</a> ·
-  <a href="https://www.linkedin.com/in/Abdulrahman-alaasi">LinkedIn</a> ·
+  <a href="mailto:abdulrahmanalaasi24@gmail.com">Email me</a> /
+  <a href="https://www.linkedin.com/in/Abdulrahman-alaasi">LinkedIn</a> /
   <a href="https://abdulrahman.alaasi.dev">Portfolio</a>
 </p>
