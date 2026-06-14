@@ -58,9 +58,9 @@ interests     system design, RAG, UI/UX, product engineering
     </td>
     <td width="50%">
       <a href="https://abdulrahman.alaasi.dev">
-        <img src="./assets/project-syncora.svg" alt="Syncora hackathon MVP" />
+        <img src="./assets/project-hackatone.svg" alt="Hackatone hackathon MVP" />
       </a>
-      <h3>Syncora</h3>
+      <h3>Hackatone</h3>
       <p>Mobile-first event operations platform for staff onboarding, real-time coordination, and communication, delivered as a 48-hour PwC Empowerthon MVP.</p>
       <p><b>Role:</b> Product and AI solution developer.</p>
       <p>Hackathon MVP summarized in my portfolio and CV.</p>
