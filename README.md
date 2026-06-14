@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://abdulrahman.alaasi.dev">
-    <img src="./assets/profile-header.svg" alt="Abdulrahman Alaasi - Software Engineer" width="100%" />
+    <img src="./assets/profile-header-animated.svg" alt="Abdulrahman Alaasi - Software Engineer" width="100%" />
   </a>
 </p>
 
@@ -16,57 +16,62 @@ I'm a Software Engineering student at **Al Yamamah University** in Riyadh, gradu
 
 My current focus is **RAG-based assistants**, **Django REST backends**, **React interfaces**, and product experiences that feel calm, useful, and intentional.
 
-```txt
-based in      Riyadh, Saudi Arabia
-building      AI university assistants, portfolio systems, developer tools
-stack         Python, Django, React, TypeScript, PostgreSQL, Supabase
-interests     system design, RAG, UI/UX, product engineering
-```
+- **Based in:** Riyadh, Saudi Arabia
+- **Building:** AI university assistants, portfolio systems, and developer tools
+- **Stack:** Python, Django, React, TypeScript, PostgreSQL, Supabase
+- **Interests:** system design, RAG, UI/UX, and product engineering
 
 ## Featured Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://yamamer.com">
-        <img src="./assets/project-yamamer.svg" alt="Yamamer AI Assistant" />
-      </a>
-      <h3>Yamamer AI Assistant</h3>
-      <p>Lead engineer and system architect for a RAG-based university assistant covering 50+ academic workflows with a 300+ article pgvector knowledge base.</p>
-      <p><b>Stack:</b> Django REST Framework, React, Supabase, PostgreSQL, pgvector, Gemini embeddings, Claude Haiku.</p>
-      <p><a href="https://yamamer.com">Live site</a> · private production repository</p>
-    </td>
-    <td width="50%">
-      <a href="https://abdulrahman.alaasi.dev">
-        <img src="./assets/project-portfolio.svg" alt="Interactive portfolio website" />
-      </a>
-      <h3>Interactive Portfolio</h3>
-      <p>A custom portfolio with a top-down SVG desk interface, animated project previews, responsive layouts, and a live admin system for managing content.</p>
-      <p><b>Stack:</b> React, JavaScript, custom SVG interaction design, responsive frontend systems.</p>
-      <p><a href="https://abdulrahman.alaasi.dev">Live site</a> · private portfolio repository</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://abdulrahman.alaasi.dev">
-        <img src="./assets/project-resume.svg" alt="Resume Builder Web Application" />
-      </a>
-      <h3>Resume Builder</h3>
-      <p>A production-ready resume builder with multi-section editing and a live preview panel, built from scratch with modern frontend tooling.</p>
-      <p><b>Stack:</b> Next.js App Router, TypeScript, Tailwind CSS.</p>
-      <p>Case study available through my portfolio and CV.</p>
-    </td>
-    <td width="50%">
-      <a href="https://abdulrahman.alaasi.dev">
-        <img src="./assets/project-hackatone.svg" alt="Hackatone hackathon MVP" />
-      </a>
-      <h3>Hackatone</h3>
-      <p>Mobile-first event operations platform for staff onboarding, real-time coordination, and communication, delivered as a 48-hour PwC Empowerthon MVP.</p>
-      <p><b>Role:</b> Product and AI solution developer.</p>
-      <p>Hackathon MVP summarized in my portfolio and CV.</p>
-    </td>
-  </tr>
-</table>
+<a href="https://yamamer.com">
+  <img src="./assets/project-yamamer-polished.svg" alt="Yamamer AI Assistant" width="100%" />
+</a>
+
+### Yamamer AI Assistant
+
+Lead engineer and system architect for a RAG-based university assistant covering 50+ academic workflows with a 300+ article pgvector knowledge base.
+
+**Stack:** Django REST Framework, React, Supabase, PostgreSQL, pgvector, Gemini embeddings, Claude Haiku.  
+**Links:** [Live site](https://yamamer.com) · private production repository
+
+---
+
+<a href="https://abdulrahman.alaasi.dev">
+  <img src="./assets/project-portfolio.svg" alt="Interactive portfolio website" width="100%" />
+</a>
+
+### Interactive Portfolio
+
+A custom portfolio with a top-down SVG desk interface, animated project previews, responsive layouts, and a live admin system for managing content.
+
+**Stack:** React, JavaScript, custom SVG interaction design, responsive frontend systems.  
+**Links:** [Live site](https://abdulrahman.alaasi.dev) · private portfolio repository
+
+---
+
+<a href="https://abdulrahman.alaasi.dev">
+  <img src="./assets/project-resume-polished.svg" alt="Resume Builder Web Application" width="100%" />
+</a>
+
+### Resume Builder
+
+A production-ready resume builder with multi-section editing and a live preview panel, built from scratch with modern frontend tooling.
+
+**Stack:** Next.js App Router, TypeScript, Tailwind CSS.  
+Case study available through my portfolio and CV.
+
+---
+
+<a href="https://abdulrahman.alaasi.dev">
+  <img src="./assets/project-hackatone.svg" alt="Hackatone hackathon MVP" width="100%" />
+</a>
+
+### Hackatone
+
+Mobile-first event operations platform for staff onboarding, real-time coordination, and communication, delivered as a 48-hour PwC Empowerthon MVP.
+
+**Role:** Product and AI solution developer.  
+Hackathon MVP summarized in my portfolio and CV.
 
 ## Toolbox
 
@@ -115,7 +120,7 @@ These are a few public repositories that show how I experiment with product tool
 ## GitHub Signal
 
 <p align="center">
-  <img src="./assets/contribution-worm.svg" alt="Animated contribution graph with a small worm moving through it" width="100%" />
+  <img src="./assets/contribution-worm-animated.svg" alt="Animated contribution graph with a small worm moving through it" width="100%" />
 </p>
 
 <p>
