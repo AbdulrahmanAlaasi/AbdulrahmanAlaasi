@@ -68,10 +68,10 @@ Case study available through my portfolio and CV.
 
 ### Hackatone
 
-Mobile-first event operations platform for staff onboarding, real-time coordination, and communication, delivered as a 48-hour PwC Empowerthon MVP.
+Hackathon management platform for creating events, running registration, QR check-in, team chat, project submissions, judging, leaderboards, and winner publishing across web and mobile.
 
-**Role:** Product and AI solution developer.  
-Hackathon MVP summarized in my portfolio and CV.
+**Scope:** Next.js web dashboard, Expo mobile app flows, Supabase schema, organizer tools, participant workflows, and judging operations.  
+Built as a structured MVP for hackathon operations.
 
 ## Toolbox
 
