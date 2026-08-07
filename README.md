@@ -40,32 +40,6 @@ Lead engineer and system architect for a RAG-based university assistant covering
   <img src="./assets/project-portfolio.svg" alt="Interactive portfolio website" width="100%" />
 </a>
 
-### Interactive Portfolio
-
-A custom portfolio with a top-down SVG desk interface, animated project previews, responsive layouts, and a live admin system for managing content.
-
-**Stack:** React, JavaScript, custom SVG interaction design, responsive frontend systems.  
-**Links:** [Live site](https://abdulrahman.alaasi.dev) / private portfolio repository
-
----
-
-<a href="https://abdulrahman.alaasi.dev">
-  <img src="./assets/project-resume-polished.svg" alt="Resume Builder Web Application" width="100%" />
-</a>
-
-### Resume Builder
-
-A production-ready resume builder with multi-section editing and a live preview panel, built from scratch with modern frontend tooling.
-
-**Stack:** Next.js App Router, TypeScript, Tailwind CSS.  
-Case study available through my portfolio and CV.
-
----
-
-<a href="https://abdulrahman.alaasi.dev">
-  <img src="./assets/project-hackatone.svg" alt="Hackatone hackathon MVP" width="100%" />
-</a>
-
 ## Toolbox
 
 <details open>
