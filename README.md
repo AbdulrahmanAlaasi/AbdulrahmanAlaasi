@@ -34,12 +34,6 @@ Lead engineer and system architect for a RAG-based university assistant covering
 **Stack:** Django REST Framework, React, Supabase, PostgreSQL, pgvector, Gemini embeddings, Claude Haiku.  
 **Links:** [Live site](https://yamamer.com) / private production repository
 
----
-
-<a href="https://abdulrahman.alaasi.dev">
-  <img src="./assets/project-portfolio.svg" alt="Interactive portfolio website" width="100%" />
-</a>
-
 ## Toolbox
 
 <details open>
