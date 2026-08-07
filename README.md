@@ -66,13 +66,6 @@ Case study available through my portfolio and CV.
   <img src="./assets/project-hackatone.svg" alt="Hackatone hackathon MVP" width="100%" />
 </a>
 
-### Hackatone
-
-Hackathon management platform for creating events, running registration, QR check-in, team chat, project submissions, judging, leaderboards, and winner publishing across web and mobile.
-
-**Scope:** Next.js web dashboard, Expo mobile app flows, Supabase schema, organizer tools, participant workflows, and judging operations.  
-Built as a structured MVP for hackathon operations.
-
 ## Toolbox
 
 <details open>
@@ -103,30 +96,6 @@ Built as a structured MVP for hackathon operations.
     <li>PwC Middle East Smart Destinations Empowerthon participant, February 2026.</li>
   </ul>
 </details>
-
-## Public Labs
-
-These are a few public repositories that show how I experiment with product tooling, performance workflows, UI systems, and applied software engineering:
-
-<p>
-  <a href="https://github.com/AbdulrahmanAlaasi/SARO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrahmanAlaasi&repo=SARO&hide_border=true&title_color=332820&text_color=4A3B30&bg_color=F4EDE0" alt="SARO repository card" /></a>
-  <a href="https://github.com/AbdulrahmanAlaasi/K9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrahmanAlaasi&repo=K9&hide_border=true&title_color=332820&text_color=4A3B30&bg_color=F4EDE0" alt="K9 repository card" /></a>
-</p>
-<p>
-  <a href="https://github.com/AbdulrahmanAlaasi/contexy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrahmanAlaasi&repo=contexy&hide_border=true&title_color=332820&text_color=4A3B30&bg_color=F4EDE0" alt="contexy repository card" /></a>
-  <a href="https://github.com/AbdulrahmanAlaasi/GanttFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrahmanAlaasi&repo=GanttFlow&hide_border=true&title_color=332820&text_color=4A3B30&bg_color=F4EDE0" alt="GanttFlow repository card" /></a>
-</p>
-
-## GitHub Signal
-
-<p align="center">
-  <img src="./assets/contribution-worm-animated.svg" alt="Animated contribution graph with a small worm moving through it" width="100%" />
-</p>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanAlaasi&show_icons=true&hide_border=true&title_color=332820&text_color=4A3B30&icon_color=CF594A&bg_color=F4EDE0" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanAlaasi&layout=compact&hide_border=true&title_color=332820&text_color=4A3B30&bg_color=F4EDE0" alt="Top languages" />
-</p>
 
 ## Let's Build
 
